@@ -1,1 +1,1 @@
-console.log('config.js file added')
+console.log('config.js file updated')
